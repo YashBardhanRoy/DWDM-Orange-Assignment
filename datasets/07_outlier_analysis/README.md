@@ -1,5 +1,7 @@
 # Experiment 7 — Outlier Analysis
 
-Numeric attributes were analyzed with a covariance-based outlier estimator and 10% contamination. The report flags 3,256 records. Compared with the full dataset, flagged records had mean capital gain 8,670 vs 1,078 and mean age 42.5 vs 38.6.
+**Input:** [`adult_outlier_input.csv`](adult_outlier_input.csv) contains the six numeric Adult attributes used to prepare an outlier-analysis input.
+
+The report screenshots show the Orange configuration and the reported 10% contamination result. This file does not add outlier flags or labels; those are not exported here.
 
 Screenshots: [`../../screenshots/07_outlier_analysis/`](../../screenshots/07_outlier_analysis/).
