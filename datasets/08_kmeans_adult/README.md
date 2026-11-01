@@ -1,5 +1,7 @@
 # Experiment 8 — K-Means on Adult Income
 
-Six normalized numeric attributes were clustered with k=3, K-Means++ initialization, 10 restarts, and up to 300 iterations. Reported cluster sizes: 14,394; 9,152; and 9,015. Silhouette score: 0.278.
+**Input:** [`adult_kmeans_input.csv`](adult_kmeans_input.csv) contains the six numeric attributes min-max normalized to [0, 1] for all 32,561 Adult records.
+
+The assignment screenshots document the Orange k=3 setup and reported cluster summary. This CSV is model input only; it does not contain invented cluster labels.
 
 Screenshots: [`../../screenshots/08_kmeans_adult/`](../../screenshots/08_kmeans_adult/).
