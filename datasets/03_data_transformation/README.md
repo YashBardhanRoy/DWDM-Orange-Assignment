@@ -1,7 +1,7 @@
 # Experiment 3 — Data Transformation
 
-**Input:** [`../adult.data`](../adult.data), after cleaning.
+**Output:** [`output_normalized_0_1.csv`](output_normalized_0_1.csv) contains all source records. The six numeric columns (`age`, `fnlwgt`, `education_num`, `capital_gain`, `capital_loss`, and `hours_per_week`) are min-max scaled to [0, 1]; categorical values are retained. Categorical missing values are first filled with their most frequent observed value.
 
-Orange Normalize scaled numeric attributes to the range [0, 1]. The screenshots show the setup and before/after data previews.
+This is a reproducible transformation from the Adult source, provided alongside the Orange setup and previews in the screenshots.
 
 Screenshots: [`../../screenshots/03_data_transformation/`](../../screenshots/03_data_transformation/).
