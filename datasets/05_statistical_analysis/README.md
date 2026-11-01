@@ -1,5 +1,8 @@
 # Experiment 5 — Statistical Analysis
 
-Orange feature statistics, distributions, and a class-wise age box plot were used to summarize the Adult dataset. Reported age mean: 38.58; median: 37; range: 17–90. Median age was 34 for income ≤50K and 44 for income >50K. Median hours per week was 40.
+- [`adult_feature_statistics.csv`](adult_feature_statistics.csv) reports count, missing count, mean, median, minimum, maximum, and mode where applicable for the source attributes.
+- [`income_class_summary.csv`](income_class_summary.csv) summarizes record count and mean/median age, education number, and hours per week by income class.
+
+These descriptive tables are computed from the UCI Adult training data. The assignment's Orange plots and reported results appear in the screenshots.
 
 Screenshots: [`../../screenshots/05_statistical_analysis/`](../../screenshots/05_statistical_analysis/).
