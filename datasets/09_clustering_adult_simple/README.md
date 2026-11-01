@@ -1,5 +1,7 @@
 # Experiment 9 — Simple K-Means Clustering
 
-A second K-Means run used normalized numeric attributes, k=2, and random initialization. The report shows cluster sizes of 18,196 and 14,365, with 11,414 records (35.05%) assigned to the opposite income class in the cluster comparison.
+**Input:** [`adult_simple_kmeans_input.csv`](adult_simple_kmeans_input.csv) contains the same six min-max-normalized numeric attributes for all 32,561 Adult records.
+
+The assignment screenshots document the Orange k=2 setup and class-to-cluster comparison. This CSV is model input only; it does not add unverified cluster assignments.
 
 Screenshots: [`../../screenshots/09_clustering_adult_simple/`](../../screenshots/09_clustering_adult_simple/).
