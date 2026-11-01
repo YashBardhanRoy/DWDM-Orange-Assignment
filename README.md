@@ -18,4 +18,4 @@ Practical work for Data Warehousing and Data Mining using Orange Data Mining. Th
 
 The report identifies `adult.data` from the Adult Census Income dataset as the input for all nine experiments. It contains 32,561 records and 14 attributes plus the income class. Missing values are marked in workclass, occupation, and native-country.
 
-The experiment descriptions and results are summarized from the provided assignment document. The original document and its embedded screenshots are not included in this repository yet.
+The experiment descriptions and results are summarized from the provided assignment document. The original document and its embedded screenshots are not included in this repository.
