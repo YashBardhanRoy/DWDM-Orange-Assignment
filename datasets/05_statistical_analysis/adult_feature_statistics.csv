@@ -1,0 +1,16 @@
+feature,type,count,missing_count,mean,median,min,max,mode,mode_count
+age,numeric,32561,0,38.581647,37,17,90,36,898
+workclass,categorical,30725,1836,,,,,Private,22696
+fnlwgt,numeric,32561,0,189778.366512,178356,12285,1484705,123011,13
+education,categorical,32561,0,,,,,HS-grad,10501
+education_num,numeric,32561,0,10.080679,10,1,16,9,10501
+marital_status,categorical,32561,0,,,,,Married-civ-spouse,14976
+occupation,categorical,30718,1843,,,,,Prof-specialty,4140
+relationship,categorical,32561,0,,,,,Husband,13193
+race,categorical,32561,0,,,,,White,27816
+sex,categorical,32561,0,,,,,Male,21790
+capital_gain,numeric,32561,0,1077.648844,0,0,99999,0,29849
+capital_loss,numeric,32561,0,87.30383,0,0,4356,0,31042
+hours_per_week,numeric,32561,0,40.437456,40,1,99,40,15217
+native_country,categorical,31978,583,,,,,United-States,29170
+income,categorical,32561,0,,,,,<=50K,24720

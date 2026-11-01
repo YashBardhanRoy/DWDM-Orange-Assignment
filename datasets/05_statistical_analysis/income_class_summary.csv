@@ -1,0 +1,3 @@
+income,count,age_mean,age_median,education_num_mean,education_num_median,hours_per_week_mean,hours_per_week_median
+<=50K,24720,36.783738,34,9.595065,9,38.84021,40
+>50K,7841,44.249841,44,11.611657,12,45.473026,40
